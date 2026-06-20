@@ -1,0 +1,9 @@
+word=input("Enter a word:")
+frequency = {}
+for char in word:
+    if char in frequency:
+        frequency[char] += 1
+    else:
+        frequency[char] = 1
+for char in frequency:
+    print(char, ":", frequency[char])
