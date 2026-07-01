@@ -49,51 +49,83 @@ Through this journey, I aim to:
 - Continue
 - Nested Loops
 
-🔄 Currently Learning
+✅ Data Structures
 
-- Functions
-- Scope
-- Lambda Functions
+Strings
+Lists
+Tuples
+Sets
+Dictionaries
+
+✅ Functions
+
+User-Defined Functions
+Parameters & Arguments
+Return Values
+Scope
+Lambda Functions
+Recursion
+
+✅ Object-Oriented Programming
+
+Classes & Objects
+Constructors
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
+✅ File Handling
+
+Reading Files
+Writing Files
+Appending Data
+Working with CSV & JSON Files
+
+✅ Exception Handling
+
+try
+except
+else
+finally
+Raising Exceptions
+
+✅ Modules & Packages
+
+Creating Modules
+Importing Modules
+Standard Library
+Package Organization
+
+✅ Advanced Python
+
+Iterators
+Generators
+Decorators
+Regular Expressions
+Logging
+Virtual Environments
+Best Coding Practices
 
 ⏳ Upcoming Topics
-
-- Data Structures
-- Strings
-- Object-Oriented Programming
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Advanced Python
 - NumPy
 - Pandas
 - Data Analysis
-
 ---
 
-🧩 Practice Problems Completed
+🧩 Learning Through Practice
 
-#| Problem
-01| Even or Odd Number
-02| Largest Among Three Numbers
-03| Multiplication Table
-04| Sum of Natural Numbers
-05| Print Even Numbers
-06| Login Validation
-07| Count Digits
-08| Reverse Number
-09| Guess the Secret Number
-10| Star Pattern
-11| Positive, Negative or Zero
-12| Sum of Even Numbers
-13| Factorial of a Number
-14| Count Even and Odd Numbers
-15| Multiples of 3 and 5
-16| ATM Menu
-17| Largest Number Using Nested If
-18| Number Pyramid
-19| Sum Until User Enters Zero
-20| Complete Basics Challenge
+Every concept in this repository is reinforced through hands-on coding.
 
+Each module includes:
+
+💻 Practice Programs
+🧠 Coding Challenges
+🚀 Mini Exercises
+🎯 Hands-on Implementations
+✅ Key Learnings
+
+This repository reflects my learning process through consistent practice rather than simply documenting theory.
 ---
 
 💡 Repository Structure
@@ -102,8 +134,14 @@ Python-Mastery-Journey
 │
 ├── 01_Python_Fundamentals
 ├── 02_Operators_And_Conditions
-├── 03_Loops
+├── 03_Data_Structures
 ├── 04_Functions
+├── 05_OOP
+├── 06_File_Handling
+├── 07_Exception_Handling
+├── 08_Modules_And_Packages
+├── 09_Advanced_Python
+│
 ├── README.md
 
 Each solution includes:
@@ -131,15 +169,19 @@ This repository serves as:
 
 📈 Progress Tracker
 
-Module| Status
-Python Fundamentals| ✅ Completed
-Conditions| ✅ Completed
-Loops| ✅ Completed
-Functions| 🔄 In Progress
-Data Structures| ⏳ Planned
-OOP| ⏳ Planned
-File Handling| ⏳ Planned
-Advanced Python| ⏳ Planned
+Module|Status
+Python Fundamentals	✅ Completed
+Operators & Conditional Statements	✅ Completed
+Data Structures	✅ Completed
+Functions	✅ Completed
+Object-Oriented Programming	✅ Completed
+File Handling	✅ Completed
+Exception Handling	✅ Completed
+Modules & Packages	✅ Completed
+Advanced Python	✅ Completed
+NumPy | 🔄 In Progress 
+Pandas | ⏳ Planned
+Data Analysiis| ⏳ Planned
 
 ---
 
